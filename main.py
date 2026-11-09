@@ -1,1 +1,1 @@
-import my
+# Новый код в main.py, ветка hotfix
